@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm C-Dev66</h1>
 <h3 align="center">Programming and Debugging is my passion!</h3>
 
-- 🔭 I’m currently working on **Algorithms & Data Structures**
+- 🔭 I’m currently working on **Electrical and Computer Engineering Concepts**
 
-- 🌱 I’m currently learning **M.E.R.N stack & Firebase**
+- 🌱 I’m currently learning **Rocketry**
 
 - 👯 I'm looking to collaborate on [NeoVim](https://github.com/neovim/neovim)
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://www.instagram.com/c_dev66/](https://www.instagram.com/c_dev66/)
 
-- 💬 Ask me about **React, Flutter , & .Net**
+- 💬 Ask me about **Racing, Autocross, Or Cycling**
 
 - ⚡ Fun fact **Cyber Security is my niche**
 

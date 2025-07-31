@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://www.instagram.com/c_dev66/](https://www.instagram.com/c_dev66/)
 
-- 💬 Ask me about **Automotive Racing, Autocross, Or Cycling**
+- 💬 Ask me about **High Performance Driving, Autocross, Or Cycling**
 
 - ⚡ Fun fact **Cyber Security is my niche**
 

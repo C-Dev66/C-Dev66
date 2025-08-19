@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with **How to exit VIM**
 
-- 📝 I regularly write articles on [https://www.instagram.com/c_dev66/](https://www.instagram.com/c_dev66/)
+- 📝 I regularly write articles on [CDev66.com](https://cdev66.com/)
 
 - 💬 Ask me about **High Performance Driving, Autocross, or Cycling**
 
